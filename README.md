@@ -1,2 +1,2 @@
 # WordleSolver
-An app that allows users to work simultaneously with Wordle to solve word of the day
+This web application is designed to solve the Wordle puzzle of the day for you, providing a convenient and efficient solution. The application seamlessly integrates a Java backend hosted through Spring Boot, with dependency management and testing automation handled by Gradle. The frontend functionality is crafted using a combination of HTML, CSS, and JavaScript, ensuring a user-friendly experience.
